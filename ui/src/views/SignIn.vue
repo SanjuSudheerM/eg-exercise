@@ -83,7 +83,6 @@ export default defineComponent({
 
 <template>
   <div class="h-full bg-wrapper">
-    <!--    <ll-page-header />-->
     <div class="container mx-auto h-full p-2">
       <div class="grid grid-cols-1 md:grid-cols-4 xl:grid-cols-3 h-full">
         <div

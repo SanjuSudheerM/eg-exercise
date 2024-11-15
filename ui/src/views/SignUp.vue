@@ -81,7 +81,6 @@ export default defineComponent({
 
 <template>
   <div class="h-full bg-wrapper">
-    <!--    <page-header />-->
     <div class="container mx-auto mt-6 h-full">
       <div class="grid grid-cols-1 md:grid-cols-4 xl:grid-cols-3 h-full">
         <div
@@ -149,7 +148,7 @@ export default defineComponent({
 
                 <hr class="h-px my-8 bg-gray-200 border-0" />
                 <div class="text-sm text-center w-full cursor-pointer mt-4">
-                  <a href="/auth/login"
+                  <a href="/signin"
                     >Already have an account?
                     <span class="underline font-semibold">Login now!</span></a
                   >
